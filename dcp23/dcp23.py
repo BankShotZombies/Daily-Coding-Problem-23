@@ -1,7 +1,7 @@
 board = [[False, False, False, True, False],
          [False, True, False, True, False],
          [False, True, False, True, False],
-         [False, True, False, True, False],
+         [False, False, False, True, False],
          [False, True, False, False, False]]
 values = [[100, 100, 100, 100, 100],
           [100, 100, 100, 100, 100],
