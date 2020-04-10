@@ -39,7 +39,7 @@ def ShortestDistance (minDist):
         return ShortestDistance(minDist)
     else:
         return minDist
-    
+
     #coords[0] = min(values[coords[0] - 1][0], values[coords[0] -2][0])
 
 def NextMove (closestDist):
